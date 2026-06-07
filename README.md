@@ -11,7 +11,7 @@ Each service has its own `app/` package and `requirements.txt` file.
 ## Output Screenshots
 
 ### Output 1
-![Output 1](output1.jpeg)
+![Output 1](output_1.jpeg)
 
 ### Output 2
-![Output 2](output2.jpeg)
+![Output 2](output_2.jpeg)
